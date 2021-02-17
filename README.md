@@ -1,10 +1,10 @@
-# Package template
+# Laravel Production Ready
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/vormkracht10/laravel-production-ready.svg?style=flat-square)](https://packagist.org/packages/vormkracht10/laravel-production-ready)
 [![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/vormkracht10/laravel-production-ready/Tests?label=tests)](https://github.com/vormkracht10/laravel-production-ready/actions?query=workflow%3ATests+branch%3Amaster)
 [![Total Downloads](https://img.shields.io/packagist/dt/vormkracht10/laravel-production-ready.svg?style=flat-square)](https://packagist.org/packages/vormkracht10/laravel-production-ready)
 
-This is where your description should go. Try and limit it to a paragraph or two. Consider adding a small example.
+Automated checks for Laravel apps to determine if it's ready for production.
 
 ## Installation
 
